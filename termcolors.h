@@ -16,3 +16,7 @@ void init_ansi() {
 #define BLUE(s) "\x1b[34m" s "\x1b[0m"
 #define GREEN(s) "\x1b[32m" s "\x1b[0m"
 #define RED(s) "\x1b[31m" s "\x1b[0m"
+#define YELLOW(s) "\x1b[33m" s "\x1b[0m"
+#define CYAN(s) "\x1b[36m" s "\x1b[0m"
+#define BLACK(s) "\x1b[30m" s "\x1b[0m"
+#define WHITE(s) "\x1b[37m" s "\x1b[0m"
