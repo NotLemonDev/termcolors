@@ -14,6 +14,10 @@ init_ansi();
 printf(GREEN("hi"));
 ```
 # colors
-green
-blue
-red
+BLUE(s)
+GREEN(s)
+RED(s)
+YELLOW(s) 
+CYAN(s)
+BLACK(s)
+WHITE(s)
