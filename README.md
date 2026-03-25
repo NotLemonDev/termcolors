@@ -4,7 +4,7 @@ terminal colors libary for C/C++
 
 # usage
 if on windows:
-```c++
+```cpp
 init_ansi();
 std::printf(GREEN("hi"));
 ```
