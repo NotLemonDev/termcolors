@@ -13,6 +13,14 @@ or
 init_ansi();
 printf(GREEN("hi"));
 ```
+if on linux
+```cpp
+std::printf(GREEN("hi"));
+```
+or
+```c
+printf(GREEN("hi"));
+```
 # colors
 BLUE(s)
 GREEN(s)
