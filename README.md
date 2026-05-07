@@ -6,7 +6,7 @@ terminal colors libary for C/C++
 if on windows:
 ```cpp
 init_ansi();
-std::printf(GREEN("hi"));
+std::cout << (GREEN("hi"));
 ```
 or
 ```c
@@ -15,7 +15,7 @@ printf(GREEN("hi"));
 ```
 if on linux
 ```cpp
-std::printf(GREEN("hi"));
+std::cout << (GREEN("hi"));
 ```
 or
 ```c
